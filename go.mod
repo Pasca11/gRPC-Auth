@@ -1,6 +1,6 @@
 module github.com/Pasca11/gRPC-Auth
 
-go 1.21
+go 1.21.4
 
 require (
 	github.com/jmoiron/sqlx v1.4.0
