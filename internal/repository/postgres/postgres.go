@@ -2,7 +2,7 @@ package postgres
 
 import (
 	"fmt"
-	"github.com/Pasca11/authservice/models"
+	"github.com/Pasca11/gRPC-Auth/models"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 	"os"

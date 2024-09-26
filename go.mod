@@ -1,4 +1,4 @@
-module github.com/Pasca11/authservice
+module github.com/Pasca11/gRPC-Auth
 
 go 1.21
 
